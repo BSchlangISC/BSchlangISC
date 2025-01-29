@@ -1,4 +1,5 @@
-## Hi there 👋
+Howdy, Ben here.
+I'm prepping this profile, getting excited for the ISC hackathon.
 
 <!--
 **BSchlangISC/BSchlangISC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
